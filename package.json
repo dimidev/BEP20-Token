@@ -1,0 +1,19 @@
+{
+  "name": "bep20-token",
+  "scripts": {
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.12.2",
+    "prettier": "^2.8.0",
+    "prettier-plugin-solidity": "^1.0.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "install": "^0.13.0"
+  }
+}
