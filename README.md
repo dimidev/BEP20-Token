@@ -19,13 +19,17 @@ npx hardhat run --network testnet ./scripts/deploy.ts
 ## BSC Testnet
 
 PancakeFactory: `0x6725F303b657a9451d8BA641348b6761A6CC7a17`
+
 PancakeRouter: `0xD99D1c33F9fC3444f8101754aBC46c52416550D1`
+
 WBNB: `0xBdf1a2e17DECb2aAC725F0A1C8C4E2205E70719C`
 
 ## BSC Mainnet
 
 PancakeFactory: `0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73`
+
 PancakeRouter: `0x10ED43C718714eb63d5aA57B78B54704E256024E`
+
 WBNB: `0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c`
 
 ## Remove Liquidity Steps
