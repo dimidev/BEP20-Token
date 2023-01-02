@@ -37,3 +37,4 @@ WBNB: `0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c`
 1. Disable swapAndLiquify with "updateSwapAndLiquifyEnabled" function and set false value, otherwise it will fails
 2. Remove liquidity
 3. Some of the contract tokens will transfer to the contract as tax fee. Use "withdrawTaxFees" to transfer them to the taxReceiver address.
+4. Use "claimTokens" to transfer any remaining BNB tokens that contract holds to the taxReceiver.
